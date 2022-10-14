@@ -23,3 +23,6 @@
   .............................................                 ┃┫┫ ┃┫┫
            佛祖保佑             永无BUG                         ┗┻┛ ┗┻┛+ + + +
 ```
+
+### 数据卡片   
+![dearDreamWeb GitHub stats](https://github-readme-stats.vercel.app/api?username=dearDreamWeb&show_icons=true&theme=radical)
