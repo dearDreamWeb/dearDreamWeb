@@ -34,4 +34,4 @@
 
 
 ### 👀 Visitors
-<div align="center"><img src="https://count.getloli.com/get/@dearDreamWeb?theme=rule34" alt="dearDreamWeb"></div>
+<div align="center"><img src="https://count.getloli.com/get/@dearDreamWeb" alt="dearDreamWeb"></div>
