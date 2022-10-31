@@ -24,5 +24,14 @@
            佛祖保佑             永无BUG                         ┗┻┛ ┗┻┛+ + + +
 ```
 
-### 数据卡片   
-![dearDreamWeb GitHub stats](https://github-readme-stats.vercel.app/api?username=dearDreamWeb&show_icons=true&theme=radical)
+### ℹ️ GitHub stats   
+|![dearDreamWeb GitHub stats](https://github-readme-stats.vercel.app/api?username=dearDreamWeb&show_icons=true&theme=radical)|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearDreamWeb&layout=compact&theme=buefy&hide_border=true" >|
+|----------|----------|
+
+### ⭐️ Open Source 
+![GitHub stars](https://img.shields.io/github/stars/dearDreamWeb?style=social)
+![GitHub followers](https://img.shields.io/github/followers/dearDreamWeb?style=social)
+
+
+### 👀 Visitors
+<div align="center"><img src="https://count.getloli.com/get/@dearDreamWeb?theme=rule34" alt="dearDreamWeb"></div>
