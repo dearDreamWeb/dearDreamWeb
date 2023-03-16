@@ -29,9 +29,6 @@
 |![dearDreamWeb GitHub stats](https://github-readme-stats.vercel.app/api?username=dearDreamWeb&show_icons=true&theme=radical)|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearDreamWeb&layout=compact&theme=buefy&hide_border=true" >|
 |----------|----------|
 
-### 胡思乱想之后去实现的一些项目
+### 突发奇想🕳
 [交通模拟器](https://github.com/dearDreamWeb/traffic_simulator.github.io)、[数字华容道](https://github.com/dearDreamWeb/digital-huarong-road)
 
-
-### 👀 Visitors
-<div align="center"><img src="https://count.getloli.com/get/@dearDreamWeb?theme=asoul" alt="dearDreamWeb"></div>
