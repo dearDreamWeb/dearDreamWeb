@@ -30,5 +30,5 @@
 |----------|----------|
 
 ### 突发奇想🕳
-[交通模拟器](https://github.com/dearDreamWeb/traffic_simulator.github.io)、[数字华容道](https://github.com/dearDreamWeb/digital-huarong-road)
+[交通模拟器](https://github.com/dearDreamWeb/traffic_simulator.github.io)、[数字华容道](https://github.com/dearDreamWeb/digital-huarong-road)、[寻路算法](https://github.com/dearDreamWeb/navigate-pixi)
 
