@@ -30,5 +30,7 @@
 |----------|----------|
 
 ### 突发奇想🕳
-[交通模拟器](https://github.com/dearDreamWeb/traffic_simulator.github.io)、[数字华容道](https://github.com/dearDreamWeb/digital-huarong-road)、[寻路算法](https://github.com/dearDreamWeb/navigate-pixi)
-
+|  项目   | 项目  |
+|  ----  | ----  |
+| <a href="https://github.com/dearDreamWeb/traffic_simulator.github.io">交通模拟器</a> | <a href="https://github.com/dearDreamWeb/digital-huarong-road">数字华容道</a>|
+| <a href="https://github.com/dearDreamWeb/navigate-pixi">寻路算法</a> | <a href="https://image-classifier-ml5.vercel.app" title="通过机器学习训练模型识别图形">图形分类</a>|
