@@ -38,7 +38,7 @@
 - 摄影作品📷: [500px中国版](https://500px.com.cn/community/user-details/36a72f2c840268ad5b2ee39f1943f2626)(需要登录才能查看作品)
 
 ### 📌 GitHub stats   
-|![dearDreamWeb GitHub stats](https://github-readme-stats.vercel.app/api?username=dearDreamWeb&show_icons=true&theme=radical&count_private=true&include_all_commits=true)|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearDreamWeb&layout=compact&theme=buefy&hide_border=true&hide=html,stylus,scss,sass,nunjucks" >|
+|![dearDreamWeb GitHub stats](https://github-readme-stats.vercel.app/api?username=dearDreamWeb&show_icons=true&theme=radical&include_all_commits=true)|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearDreamWeb&layout=compact&theme=buefy&hide_border=true&hide=html,stylus,scss,sass,nunjucks" >|
 |----------|----------|
 
 ### 🕳 突发奇想
