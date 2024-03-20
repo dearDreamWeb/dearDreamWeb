@@ -47,3 +47,7 @@
 | <a href="https://github.com/dearDreamWeb/long-road">漫长之路（游戏）</a> | <a href="https://github.com/dearDreamWeb/traffic_simulator.github.io">交通模拟器</a> |
 | <a href="https://github.com/dearDreamWeb/digital-huarong-road">数字华容道</a> | <a href="https://github.com/dearDreamWeb/navigate-pixi">寻路算法</a> |
 | <a href="https://image-classifier-ml5.vercel.app" title="通过机器学习训练模型识别图形">图形分类</a> |
+
+### 个人产品
+记账小程序：《记账小册》   
+![](https://raw.githubusercontent.com/dearDreamWeb/picture/main/others/gh_1213e23da1a1_258.jpg)
