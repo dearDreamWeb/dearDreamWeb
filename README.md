@@ -47,7 +47,7 @@
 | <a href="https://github.com/dearDreamWeb/camera-watermark">无忧水印相机</a> | <a href="https://github.com/dearDreamWeb/long-road">漫长之路（游戏）</a> |
 | <a href="https://github.com/dearDreamWeb/traffic_simulator.github.io">交通模拟器</a> | <a href="https://github.com/dearDreamWeb/digital-huarong-road">数字华容道（游戏）</a> |
 | <a href="https://github.com/dearDreamWeb/browser_console_minesweeper_gird">浏览器控制台玩扫雷</a> | <a href="https://github.com/dearDreamWeb/navigate-pixi">寻路算法</a> |
-| <a href="https://image-classifier-ml5.vercel.app">图形分类</a> | |
+| <a href="https://image-classifier-ml5.vercel.app">图形分类</a> | <a href="https://github.com/dearDreamWeb/chrome-extension-blibli">Chrome插件-B站点赞和投币的记录</a> |
 ### 个人产品
 记账小程序：《记账小册》   
 ![](https://raw.githubusercontent.com/dearDreamWeb/picture/main/others/gh_1213e23da1a1_258.jpg)
