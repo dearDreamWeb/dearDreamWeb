@@ -38,7 +38,7 @@
 - 摄影作品📷: [500px中国版](https://500px.com.cn/community/user-details/36a72f2c840268ad5b2ee39f1943f2626)(需要登录才能查看作品)
 
 ### 📌 GitHub stats   
-<a href='https://gitfut.com/dearDreamWeb'><img src='https://gitfut.com/dearDreamWeb.png' width='240' alt='https://gitfut.com/dearDreamWeb' /></a>
+<a href='https://gitfut.com/dearDreamWeb' target="_blank"><img src='https://gitfut.com/dearDreamWeb.png' width='240' alt='https://gitfut.com/dearDreamWeb' /></a>
 
 ### 🕳 突发奇想
 |  项目   | 项目  |
