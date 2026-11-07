@@ -48,8 +48,10 @@
 | <a href="https://github.com/dearDreamWeb/browser_console_minesweeper_gird">浏览器控制台玩扫雷</a> | <a href="https://github.com/dearDreamWeb/navigate-pixi">寻路算法</a> |
 | <a href="https://image-classifier-ml5.vercel.app">图形分类</a> | <a href="https://github.com/dearDreamWeb/chrome-extension-blibli">Chrome插件-B站点赞和投币的记录</a> |
 ### 个人产品
+家庭点菜小程序：《点菜吧小记》   
+<img src='https://raw.githubusercontent.com/dearDreamWeb/picture/main/others/1c1828dc-00f9-42e6-8410-1d2e154c3f0e.png' width='256' height='256' />
+
 记账小程序：《记账小册》   
 <img src='https://raw.githubusercontent.com/dearDreamWeb/picture/main/others/gh_1213e23da1a1_258.jpg' width='256' height='256' />
 
-家庭点菜小程序：《点菜吧小记》   
-<img src='https://raw.githubusercontent.com/dearDreamWeb/picture/main/others/1c1828dc-00f9-42e6-8410-1d2e154c3f0e.png' width='256' height='256' />
+
